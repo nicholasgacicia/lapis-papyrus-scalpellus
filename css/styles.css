@@ -224,6 +224,26 @@ footer .social > a:hover {
   opacity: 0.9;
 }
 
+.ion-social-linkedin:hover {
+  color: rgb(72, 130, 189);
+}
+
+.ion-social-github:hover {
+  color: rgb(34, 39, 46);
+}
+
+.ion-social-twitter:hover {
+  color: rgb(29, 161, 242);
+}
+
+.ion-social-facebook:hover {
+  color: rgb(68, 105, 176);
+}
+
+.ion-social-instagram:hover {
+  color: rgb(213, 69, 125);
+}
+
 footer .copyright {
   margin-top: 10px;
   text-align: center;
